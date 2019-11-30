@@ -138,6 +138,7 @@
                 android:layout_height="wrap_content"
                 android:gravity="center"
                 android:text="VERIFY"
+                android:textSize="65dp"
                 android:textColor="@color/colorPrimaryDark" />
 
         </LinearLayout>
